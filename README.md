@@ -8,6 +8,7 @@ Welcome to the Regex Data Extraction Hackathon! This project involves extracting
 - **Team Members:**
   - Abiodun Kumuyi (GitHub Username: akumuyi)
   - Member 2 (GitHub Username)
+  - Albertine Ingabire (Github username: Ialbertine)
 
 ## Project Structure
 
