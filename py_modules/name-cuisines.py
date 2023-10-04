@@ -1,7 +1,7 @@
 import re
 
 # Open the Name-Cuisine.txt file for reading
-with open("/alu_regex-data-extraction-group13/txt_vault/name-Cuisine.txt", "r") as f:
+with open("/alu_regex-data-extraction-group13/txt_vault/Name-Cuisine.txt", "r") as f:
     # Read the entire file contents into a string
     text = f.read()
 
