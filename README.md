@@ -42,7 +42,7 @@ For this hackathon, we have chosen to work on the following challenges:
 1. **Restaurant Names and Cuisine Types**
    - Description: Extract restaurant names and cuisine types from raw text.
    - Implementation: Python
-   - Regex Pattern: `r"(.+) - (.+)"`
+   - Regex Pattern: re.compile(r"(?P<name>\w+(?:\s+\w+)*)\s+-\s+(?P<cuisine>\w+)")
 
 2. **Social Media Usernames**
    - Description: Extract social media usernames from raw text.
